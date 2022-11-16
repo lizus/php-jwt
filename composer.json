@@ -1,0 +1,23 @@
+{
+    "name": "lizus/php-jwt",
+    "description": "php-jwt",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "firebase/php-jwt": "dev-main",
+        "symfony/uid": "5.4.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lizus\\PHPJWT\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lizus",
+            "email": "lizus.com@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
