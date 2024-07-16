@@ -3,7 +3,7 @@
     "description": "php-jwt",
     "type": "library",
     "require": {
-        "php": ">=7.2",
+        "php": "^7.4||^8.0",
         "firebase/php-jwt": "^6.4.0",
         "symfony/uid": "5.4.x-dev"
     },
